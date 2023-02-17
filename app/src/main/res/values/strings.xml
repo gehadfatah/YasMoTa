@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+
+    <string name="operational_error_message">error </string>
+    <string name="connection_error">check Internet please</string>
+    <string name="empty_error">empty</string>
+
+    <string name="oops">Ooopss!!</string>
+    <string name="retry">Retry</string>
+    <string name="lorem">dkd dkdjd kdj</string>
+    <string name="actor_title">Actors</string>
+    <string name="tagline">Movie Ta</string>
+    <string name="description_title">Description</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="visible_title">Visible</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="menu_title">menu</string>
+    <string name="search">search...</string>
+    <string name="title_filter">filter</string>
+    <string name="favorites">Favorites</string>
+    <string name="search_hint">search...</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Movie</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="title_find"> </string>
+    <string name="title_trending">trending</string>
+    <string name="title_popular">Populars</string>
+    <string name="title_child">child</string>
+    <string name="title_top">Top Rated</string>
+    <string name="search_for_movies">Search for Movies</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_setting">Preferenes</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="offline">offline</string>
+</resources>

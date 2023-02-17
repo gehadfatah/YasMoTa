@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="menu_entries">
+        <item>Favorites</item>
+    </string-array>
+
+    <string-array name="menu_values">
+        <item>navigation_favorite</item>
+
+    </string-array>
+
+</resources>

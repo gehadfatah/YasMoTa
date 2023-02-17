@@ -1,0 +1,47 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="movie_h">190dp</dimen>
+    <dimen name="nav_header_h">180dp</dimen>
+    <dimen name="nav_header_mt">24dp</dimen>
+    <dimen name="_8sdp">8.00dp</dimen>
+    <dimen name="sp_31">31sp</dimen>
+    <dimen name="sp_15">15sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="xxxxx">25dp</dimen>
+    <dimen name="xxxxxx">30dp</dimen>
+    <dimen name="xxxxxxx">35dp</dimen>
+    <dimen name="xxxx">20dp</dimen>
+    <dimen name="xxx">15dp</dimen>
+    <dimen name="xx">10dp</dimen>
+    <dimen name="x">5dp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="sp_18">18sp</dimen>
+    <dimen name="date_sp">13sp</dimen>
+
+    <dimen name="sp_25">25sp</dimen>
+
+    <dimen name="ch_cy_select">20dp</dimen>
+    <dimen name="sp_13">13sp</dimen>
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_11">11sp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="button_height_45">45dp</dimen>
+    <dimen name="padding_x">3dp</dimen>
+    <dimen name="imagecountry">30dp</dimen>
+    <dimen name="signup16">16sp</dimen>
+    <dimen name="sp_17">17sp</dimen>
+    <dimen name="dp_48">48dp</dimen>
+    <dimen name="ed_height">48dp</dimen>
+    <dimen name="verEdiSize">40dp</dimen>
+    <dimen name="normal_16_friendy">16sp</dimen>
+    <dimen name="sp_8">8sp</dimen>
+    <dimen name="sp_10">10sp</dimen>
+    <dimen name="sp_9">9sp</dimen>
+    <dimen name="marginFilterHorizontal">16dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_50">50dp</dimen>
+</resources>

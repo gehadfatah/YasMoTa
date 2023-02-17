@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/navigation_home"
+            android:icon="@drawable/ic_ticket"
+            android:visible="false"
+            android:title="@string/title_trending" />
+
+        <item
+            android:id="@+id/navigation_popular"
+            android:icon="@drawable/ic_award"
+
+            android:title="@string/title_popular" />
+
+        <item
+            android:id="@+id/navigation_child"
+            android:icon="@drawable/ic_baseline_vertical_align_top_24"
+
+            android:title="@string/title_top" />
+
+        <item
+            android:id="@+id/navigation_favorite"
+            android:icon="@drawable/ic_star_border_black_24dp"
+            android:title="@string/title_favorite" />
+
+
+
+    </group>
+
+</menu>
